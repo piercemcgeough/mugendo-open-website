@@ -46,18 +46,31 @@
 
         <div class="row">
             <div class="col-md-6">
-                <h4>Fees (Junior &amp; Senior)</h4>
+                <h4>Fees</h4>
 
                 <table class="table">
                     <tbody>
                         <tr>
-                            <td nowrap="" width="50%"><strong>1st division</strong></td>
+                            <td><strong>Junior 1st division</strong></td>
+                            <td>€15</td>
+                        </tr>
+                        <tr>
+                            <td><strong>Junior 2 divisions</strong></td>
+                            <td>€25</td>
+                        </tr>
+                        <tr>
+                            <td><strong>Junior 3 divisions</strong></td>
+                            <td>€30</td>
+                        </tr>
+                        <tr>
+                            <td><strong>Senior 1st division</strong></td>
                             <td>€20</td>
                         </tr>
                         <tr>
-                            <td nowrap="" width="50%"><strong>Additional divisions</strong></td>
+                            <td><strong>Senior additional division</strong></td>
                             <td>€10</td>
                         </tr>
+
                     </tbody>
                 </table>
             </div>
