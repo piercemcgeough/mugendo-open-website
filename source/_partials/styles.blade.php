@@ -16,7 +16,8 @@
         padding-bottom: 120px;
     }
 
-    #eventDetails {
+    #eventDetails,
+    #extraInfo {
         background-color: #f5f5f5;
         padding-top: 130px;
         padding-bottom: 120px;

@@ -29,6 +29,7 @@
                     <li><a href="#introduction">Home</a></li>
                     <li><a href="#eventDetails">Event Details</a></li>
                     <li><a href="#feesAndRegistration">Fees &amp; Registration</a></li>
+                    <li><a href="#extraInfo">Extra Info</a></li>
 
                     {{-- <li><a href="#services">Services</a></li>
                     <li><a href="#our-works">Works</a></li>

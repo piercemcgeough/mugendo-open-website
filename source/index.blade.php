@@ -4,6 +4,7 @@
     @include('/_pageContent.introduction')
     @include('/_pageContent.eventDetails')
     @include('/_pageContent.feesAndRegistration')
+    @include('/_pageContent.extraInfo')
 
     {{-- @include('/_pageContent.slider')
     @include('/_pageContent.services')
