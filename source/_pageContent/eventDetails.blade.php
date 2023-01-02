@@ -9,7 +9,7 @@
 
                 <p>
                     We have over 250 divisions across Light Contact, Kick Light, Points Fighting and Katas.
-                    For full list please see <a href="{{ $page->kihappLink }}" class="page-link">Kihapp</a></p>
+                    For full list please see <a href="{{ $page->kihappUrl }}" class="page-link">Kihapp</a></p>
                 </p>
             </div>
 
@@ -18,7 +18,7 @@
 
                 <p>
                     This is a <strong>pre-registration only</strong> event.
-                    Register now on <a href="{{ $page->kihappLink }}" class="page-link">Kihapp</a>
+                    Register now on <a href="{{ $page->kihappUrl }}" class="page-link">Kihapp</a>
                 </p>
             </div>
 

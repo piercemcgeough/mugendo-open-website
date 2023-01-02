@@ -9,7 +9,7 @@
 
                 <p>
                     This event is <strong>pre-registration ONLY</strong> please visit
-                    <a href="{{ $page->kihappLink }}" class="page-link">Kihapp</a> to register.
+                    <a href="{{ $page->kihappUrl }}" class="page-link">Kihapp</a> to register.
                 </p>
 
                 <p>
