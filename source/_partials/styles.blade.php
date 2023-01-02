@@ -40,4 +40,8 @@
     .st-navbar ul {
         margin-top: 45px;
     }
+
+    .st-pricing.cta {
+        box-shadow: 0px 0px 18px #ddd;
+    }
 </style>
