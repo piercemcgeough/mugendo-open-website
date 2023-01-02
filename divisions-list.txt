@@ -1,0 +1,68 @@
+Divisions List
+
+Traditional Kata (Novice, Advanced): 
+    Boys & Girls/Male & Female:
+        Under 13 Years
+        13 - 17 Years
+        18 - 40 Years
+
+Light Contact: 
+    Boys:
+        5 - 6 Years (Heights) (All Levels)
+        7 - 9 Years, 10 - 12 Years, 13 - 14 Years (Heights) (Novice, Intermediate, Advanced)
+        15 - 17 Years (-52KG, -57KG, -63KG, -69KG, -74KG, -79KG, -84KG, +84KG) (Novice, Intermediate, Advanced)
+
+    Girls:
+        5 - 6 Years (Heights) (All Levels)
+        7 - 9 Years, 10 - 12 Years, 13 - 14 Years (Heights) (Novice, Intermediate, Advanced)
+        15 - 17 Years (-46KG, -50KG, -55KG, -60KG, -65KG, -70KG, -75KG, -80KG, +80KG) (Novice, Intermediate, Advanced)
+
+    Mens:
+        18 - 40 Years (-63KG, -69KG, -74KG, -79KG, -84KG, +84KG) (Novice, Intermediate, Advanced)
+    
+    Womens:
+        18 - 40 Years (-50KG, -55KG, -60KG, -65KG, -70KG, -75KG, -80KG, +80KG) (Novice, Intermediate, Advanced)
+
+    Mens Masters:
+        41 - 50 Years (-74KG, +74KG) (All Levels)
+
+    Womens Masters:
+        41 - 50 Years (-60KG, +60KG) (All Levels)
+
+Point Fighting:
+    Boys:
+        5 - 6 Years (Heights) (All Levels)
+        7 - 9 Years, 10 - 12 Years, 13 - 14 Years (Heights) (Novice, Intermediate, Advanced)
+        15 - 17 Years (-60KG, -70KG, -80KG, +80KG) (Novice, Intermediate, Advanced)
+
+    Girls:
+        5 - 6 Years (Heights) (All Levels)
+        7 - 9 Years, 10 - 12 Years, 13 - 14 Years (Heights) (Novice, Intermediate, Advanced)
+        15 - 17 Years (-55KG, -65KG, +65KG) (Novice, Intermediate, Advanced)
+
+    Mens:
+        18 - 40 Years (-60KG, -70KG, -80KG, +80KG) (Novice, Intermediate, Advanced)
+        
+    Womens:
+        18 - 40 Years (-55KG, -65KG, +65KG) (Novice, Intermediate, Advanced)
+
+    Mens Masters:
+        41 - 50 Years (-74KG, +74KG) (All Levels)
+
+    Womens Masters:
+        41 - 50 Years (-60KG, +60KG) (All Levels)
+
+Kick Light:
+    Boys:
+        13 - 14 Years (Heights) (Novice, Intermediate/Advanced)
+        15 - 17 Years (-57KG, -63KG, -69KG, -74KG, -79KG, -84KG, +84KG) (Novice, Intermediate/Advanced)
+        
+    Girls:
+        13 - 14 Years (Heights) (Novice, Intermediate/Advanced)
+        15 - 17 Years (-46KG, -50KG, -55KG, -60KG, -65KG, -70KG, -75KG, -80KG, +80KG) (Novice, Intermediate/Advanced)
+
+    Mens:
+        18 - 40 Years (-63KG, -69KG, -74KG, -79KG, -84KG, +84KG) (Novice, Intermediate/Advanced)
+    
+    Womens:
+        18 - 40 Years (-50KG, -55KG, -60KG, -65KG, -70KG, -75KG, -80KG, +80KG) (Novice, Intermediate/Advanced)
