@@ -8,7 +8,7 @@
                 </div>
 
                 <p>
-                    This event is <strong>pre-registration ONLY</strong> please visit
+                    Please visit
                     <a href="{{ $page->kihappUrl }}" class="page-link">Kihapp</a> to register.
                 </p>
 

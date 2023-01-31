@@ -17,8 +17,7 @@
                 <h2><i class="fa fa-pencil-square-o"></i> Registration</h2>
 
                 <p>
-                    This is a <strong>pre-registration only</strong> event.
-                    Register now on <a href="{{ $page->kihappUrl }}" class="page-link">Kihapp</a>
+                    Register now online at <a href="{{ $page->kihappUrl }}" class="page-link">Kihapp</a>
                 </p>
             </div>
 

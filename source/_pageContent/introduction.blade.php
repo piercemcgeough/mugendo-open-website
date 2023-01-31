@@ -32,7 +32,7 @@
             <div class="col-md-4">
                 <div class="st-pricing cta text-center">
                     <h5>Register Online</h5>
-                    <p>Online registration only at <a href="{{ $page->kihappUrl }}" class="page-link">Kihapp</a></p>
+                    <p>Online registration at <a href="{{ $page->kihappUrl }}" class="page-link">Kihapp</a></p>
 
                     <div class="st-border"></div>
                     <ul>
